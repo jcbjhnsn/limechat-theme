@@ -1,9 +1,9 @@
 html {
-  font: 10pt 'Helvetica';
+  font: 11pt 'Helvetica-Bold';
   background-color: #202020;
   color: #f0f0f0;
 }
-body { 
+body {
   margin: 0px;
   padding: 0px;
 }
@@ -29,7 +29,7 @@ body {
   float:left;
   padding-right: 10px;
   }
-  
+
 .time, .sender {
   background: #191919;
 }
@@ -66,7 +66,7 @@ body {
 }
 .line[type=quit], .line[type=part], .line[type=join], .line[type=nick] {
   display: none;
-} 
+}
 .message[type=reply] { color: #509036; }
 
 .message[type=error], .message[type=error_reply] { color: #f67b37; }
