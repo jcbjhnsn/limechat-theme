@@ -1,3 +1,5 @@
+<img src='http://img.skitch.com/20100517-bgd87qcg81t48dne17mcw2u71f.png'>
+
 1. Run rake install
 2. Press Cmd+Shift+8 in Limechat
 3. Press Cmd+,
